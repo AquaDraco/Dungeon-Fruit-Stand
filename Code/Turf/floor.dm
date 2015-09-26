@@ -1,5 +1,5 @@
 /turf/floor
-	icon = 'tiles.dmi'
+	icon = 'floor.dmi'
 	icon_state = "polkadot"
 
 	density = 0
