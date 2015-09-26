@@ -1,6 +1,7 @@
 "a" = (/turf/wall,/area)
 "b" = (/turf/floor,/area)
 "c" = (/obj/structure/stove{step_x = 0; step_y = 15},/turf/floor,/area)
+"d" = (/obj/structure/counter,/turf/floor,/area)
 
 (1,1,1) = {"
 aaaaaaaaaaaaaaaaaaaa
@@ -8,12 +9,12 @@ abbbbbbbbcbbbbbbbbba
 abbbbbbbbbbbbbbbbbba
 abbbbbbbbbbbbbbbbbba
 abbbbbbbbbbbbbbbbbba
-abbbbbbbbbbbbbbbbbba
-abbbbbbbbbbbbbbbbbba
-abbbbbbbbbbbbbbbbbba
-abbbbbbbbbbbbbbbbbba
-abbbbbbbbbbbbbbbbbba
 aaaaaaaaaaaaaaaaaaba
+abbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbba
+adddddddddddddddddba
+abbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbba
 abbbbbbbbbbbbbbbbbba
 abbbbbbbbbbbbbbbbbba
 abbbbbbbbbbbbbbbbbba
