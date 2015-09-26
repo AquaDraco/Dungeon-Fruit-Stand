@@ -10,5 +10,10 @@
 	if(in_use)
 		return
 
-	in_use = 1
-	usr.contents += new /obj/food/dragonfruit
+	if(src in view(1))
+		in_use = 1
+		usr.contents += new /obj/food/dragonfruit
+
+		spawn(50)
+
+		in_use = 0
