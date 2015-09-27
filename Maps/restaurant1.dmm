@@ -1,27 +1,32 @@
 "a" = (/turf/wall,/area)
 "b" = (/turf/floor,/area)
-"c" = (/obj/structure/stove{step_x = 0; step_y = 15},/turf/floor,/area)
-"d" = (/obj/structure/counter,/turf/floor,/area)
+"c" = (/obj/structure/stove,/turf/floor,/area)
+"d" = (/obj/structure/stove/stovechef,/turf/floor,/area)
+"e" = (/obj/structure/counter,/turf/floor,/area)
+"f" = (/obj/structure/chair/red,/turf/floor,/area)
+"g" = (/obj/structure/table/pink,/turf/floor,/area)
+"h" = (/obj/structure/chair/red{step_x = 0},/turf/floor,/area)
+"i" = (/turf/floor,/area/entrance)
 
 (1,1,1) = {"
 aaaaaaaaaaaaaaaaaaaa
-abbbbbbbbcbbbbbbbbba
+abcbcbcbcbcbcbcbdbba
 abbbbbbbbbbbbbbbbbba
 abbbbbbbbbbbbbbbbbba
 abbbbbbbbbbbbbbbbbba
 aaaaaaaaaaaaaaaaaaba
 abbbbbbbbbbbbbbbbbba
 abbbbbbbbbbbbbbbbbba
-adddddddddddddddddba
+aeeeeeeeeeeeeeeeeeba
 abbbbbbbbbbbbbbbbbba
 abbbbbbbbbbbbbbbbbba
 abbbbbbbbbbbbbbbbbba
+abfgfbfgfbbfgfbfgfba
 abbbbbbbbbbbbbbbbbba
 abbbbbbbbbbbbbbbbbba
+abfgfbfgfbbfgfbfgfba
 abbbbbbbbbbbbbbbbbba
 abbbbbbbbbbbbbbbbbba
-abbbbbbbbbbbbbbbbbba
-abbbbbbbbbbbbbbbbbba
-abbbbbbbbbbbbbbbbbba
-aaaaaaaaabbaaaaaaaaa
+abfgfbfgfbbfgfbfghba
+aaaaaaaaaiiaaaaaaaaa
 "}
