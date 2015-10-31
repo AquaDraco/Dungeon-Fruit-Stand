@@ -1,5 +1,5 @@
 /turf/wall
-	icon = 'walls.dmi'
-	icon_state = "dfruitwall"
+	icon = 'wall.dmi'
+	icon_state = "dfruit"
 
 	density = 1

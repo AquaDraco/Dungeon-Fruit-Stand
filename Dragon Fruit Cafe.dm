@@ -10,6 +10,8 @@ world
 
 	mob = /mob/player
 
+	name = "Dragon Fruit Cafe"
+
 
 // Make objects move 8 pixels per tick when walking
 
